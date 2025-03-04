@@ -57,7 +57,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Main title with enhanced styling
-    st.markdown('<p class="main-title"><h2>HEART WISE: AI-DRIVEN HEART DISEASE PREDICTION USING NEURAL NETWORKS</h2></p>', 
+    st.markdown('<p class="main-title">HEART WISE: AI-DRIVEN HEART DISEASE PREDICTION USING NEURAL NETWORKS</p>', 
                 unsafe_allow_html=True)
 
     # Enhanced sidebar
